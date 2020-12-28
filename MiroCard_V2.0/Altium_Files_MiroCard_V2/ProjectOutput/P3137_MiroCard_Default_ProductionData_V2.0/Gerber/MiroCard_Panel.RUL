@@ -1,0 +1,6 @@
+DRC Rules Export File for PCB: C:\Users\sinan\Projekte\P3137_Miromico_Energy_Harvesting\Hardware\trunk\MiroCard\pcb\MiroCard_Panel.PcbDoc
+RuleKind=Clearance|RuleName=Clearance_Polygon|Scope=Board|Minimum=10.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=5.91
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=5.91
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=3.94

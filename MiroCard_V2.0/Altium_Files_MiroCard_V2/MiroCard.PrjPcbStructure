@@ -1,0 +1,5 @@
+Record=TopLevelDocument|FileName=00 - Overview.SchDoc
+Record=SheetSymbol|SourceDocument=00 - Overview.SchDoc|Designator=CC2650|SchDesignator=CC2650|FileName=01 - CC2650.SchDoc|SymbolType=Normal|RawFileName=01 - CC2650.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=00 - Overview.SchDoc|Designator=EMU|SchDesignator=EMU|FileName=02 - EnergyManagementUnit.SchDoc|SymbolType=Normal|RawFileName=02 - EnergyManagementUnit.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=00 - Overview.SchDoc|Designator=Sensors|SchDesignator=Sensors|FileName=04 - Sensors.SchDoc|SymbolType=Normal|RawFileName=04 - Sensors.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=02 - EnergyManagementUnit.SchDoc|Designator=U_AEM10941|SchDesignator=U_AEM10941|FileName=03 - AEM10941.SchDoc|SymbolType=Normal|RawFileName=03 - AEM10941.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
