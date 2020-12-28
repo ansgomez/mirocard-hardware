@@ -1,7 +1,6 @@
 ## MiroCard Hardware Files
 
-For the latest information on the MiroCard project, visit:
-https://mirocard.swiss
+For the latest information on the MiroCard project, visit our [website](https://mirocard.swiss).
 
 This repo contains hardware files for the MiroCard.
 
@@ -10,14 +9,14 @@ containing the Altium project for the PCB design.
 
   * Datasheet_MiroCard_V2.pdf
   * Schematics_MiroCard_V2.pdf
-  * Altium_File_MiroCard_V2/
+  * *Altium_File_MiroCard_V2/*
 
 For more information, feel free to contact us at info@mirocard.ch
 
 ## Contributors
 
 * Sinan Uyan
-* Andres Gomez <andres@mirocard.swiss>
+* [Andres Gomez](mailto:andres@mirocard.swiss)
 
 ## Copyright and License
 
