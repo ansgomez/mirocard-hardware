@@ -5,7 +5,7 @@ For the latest information on the MiroCard project, visit our [website](https://
 This repo contains hardware files for the MiroCard.
 
 The current version, MiroCard_V2.0, contains the datasheet, schematics, and a folder
-containing the Altium project for the PCB design.
+containing the Altium project for the PCB design and production.
 
   * Datasheet_MiroCard_V2.pdf
   * Schematics_MiroCard_V2.pdf
