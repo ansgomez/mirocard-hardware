@@ -15,13 +15,13 @@ For more information, feel free to contact us at info@mirocard.ch
 
 ## Contributors
 
-* Sinan Uyan
+* Sinan Uyan (PCB layout)
 * [Andres Gomez](mailto:andres@mirocard.swiss)
 
 ## Copyright and License
 
 The MiroCard and MiroReader app are designed by Andres Gomez, inspired by the Transient BLE Node project developed at ETH Zurich. 
-The MiroCard and MiroReader app will be released as open-source projects under an MIT License. 
+The MiroCard hardware files are released under the BSD 3-Clause License (see [LICENSE](LICENSE)).
 The Transient BLE Node project is an open-source project released under the Creative Commons Attribution 4.0 International License.
 
 Copyright: (c) 2020, Andres Gomez, Miromico AG
