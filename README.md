@@ -19,6 +19,8 @@ Contact: [Andres Gomez](https://andresgomez.ch).
 
 ## MiroCard project
 
+Project website: <https://ansgomez.github.io/mirocard-website/>
+
 The MiroCard is a batteryless, light-powered BLE smart card, designed by Andres Gomez
 (Miromico AG) and inspired by the
 [Transient BLE Node](https://gitlab.ethz.ch/tec/public/employees/sigristl/transient_ble_node)
